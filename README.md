@@ -22,6 +22,11 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 
 # Portfolio
+## Homework assignments
+### Assignment 1
+### Assignment 2
+### Assignment 3
+## Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
