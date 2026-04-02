@@ -17,7 +17,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 ## Homework assignments
 ### Critique and Redesign
 
-#### Part !
+### Part 1
 
   For this assignment the data I choose from Makeovermonday was a visualization from the platform Steam that visualized their current top 100 games by current players. I choose this because I use this platform often so thinking about how to change it would be something that would come easy for me. 
 
@@ -27,7 +27,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
   [Steam Most Played Games Chart](https://store.steampowered.com/charts/mostplayed)
   The data used in the new visualization I created can be found here
   [Steam Top 100 Played Games Dataset](https://data.world/makeovermonday/2025w3-steam-top-100-played-games)
-#### Part 2 Sketching
+### Part 2 Sketching
 
   When Making Sketching out a solution there were a few things I wanted to accomplish
   1. Make a color distinction between prices
@@ -38,13 +38,13 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
  <img width="1029" height="601" alt="Screenshot 2026-04-01 220259" src="https://github.com/user-attachments/assets/033de306-228d-4425-877f-b1284edc3234" />
 
 
- #### Part 3 Testing
+ ### Part 3 Testing
 
  I went into testing thinging this was a good makeover of what Steam had done for their visualization but is that what others thought?
 
  I had two people look at the original sketch 
 
- ##### Interview 1
+ ### Interview 1
 
  Gamer, early 20's
  Blue collar worker
@@ -70,7 +70,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
  -  I do not like the colors or the title I would change your title to be more specific
 
-  ##### Interview 2
+  ### Interview 2
 
   Student, mid 20's
   Student, MSPPM
@@ -95,7 +95,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
   - I would use a different color scale I do not think that a grey scale is good for showing price differences. I would also include player count on the bars to make it east to know.
 
 
-##### Building a Solution
+### Building a Solution
 
 The Visualization that I ended up going with was still a bar graph as the data I was using from data.world could be good for trends over time but that was not something that I could do as there was not date category. I thought that showing this in a bar grpah format rather than the format that was used previously almost a table was good as it would one show more of the information at once and two becuase you could see the magnitude of difference between the games player bases. So going from this I wanted to include from the old vidusalization player count and price but the main thing I wanted to change here was visualizing the price difference in the different games that were at the top of the Steam leaderboard at the given time. 
 
