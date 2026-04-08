@@ -1,3 +1,5 @@
+[final project I](final-project-part-one)
+
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
