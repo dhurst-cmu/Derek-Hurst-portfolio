@@ -75,8 +75,8 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|         The graphs I showed them were promising but needed quite a bit of work                            |                   Change my graph and get people to look at them more                                                              |       
-|                
+|         The graphs I showed them were promising but needed quite a bit of work                            |    Change my graph and get people to look at them more                                                              |       The story was a good add
+|    the story was an idea I was pitching when iterviewing talking about adding it so I added it above now I think Ill get feedback from other people on what they think about it.            
                      |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
