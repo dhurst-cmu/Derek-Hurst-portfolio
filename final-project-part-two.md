@@ -1,8 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
 >
+>The story board that I will be using I believe will be ARCgis onlines storyboard software as I am familar with it this is the story as it sits now
 > So I will start with a short anecdote from someone I know about a unnamed healthcare company in Ohio
 >
 > In Ohio and especially rural Ohio there are many problems that are seen everyday from the opiod epidemic to the mafias but one problem that is critical is healthcare access. In Ohio many counties do not have hospitals or adequte access to primary care providers this is what a primary care provider once told me about their company.
@@ -58,7 +58,7 @@ Text here!
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
 |                  Q1     |     They said that they liked the story element of begining with talking about someone in the field                           |   they liked the idea to include primary care numbers I added this from feedback from part 1          |     They though the split bar graph was a cool addition but needed work especially with the labeling        |
-|                  Q2     |     I was not fully done with part two at this point so they said I should work on the map that I have above                           |   They thought the titles I was using so far for graphs needed work and similar said I should make changes to other features of the bar graph        |     Ran out of time to ask more than one question to this person        |
+|                  Q2     |     I was not fully done with part two at this point so they said I should work on the map that I have above                           |   They thought the titles I was using so far for graphs needed work and similar said I should make changes to other features of the bar graph  They liked my idea for the time based distance from hospitals they gave me some of their ideas on what that could look like (I have no idea how to do what they said but it sounded really cool)      |     Ran out of time to ask more than one question to this person        |
 
 
 # Identified changes for Part III
