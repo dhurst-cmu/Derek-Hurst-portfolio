@@ -22,6 +22,12 @@ Outside of hospitals many counties as talked a bit about above do not have acces
 
 <img width="2893" height="1162" alt="Screenshot 2026-04-15 233023" src="https://github.com/user-attachments/assets/589a9445-9fa2-4a01-ba33-42868a777a12" />
 
+When it comes to the split between spending in counties between rural and urban we can look at a few different things but the first thing is spending per person on medical expenses between rural and urban counties<img width="744" height="710" alt="Screenshot 2026-04-16 001832" src="https://github.com/user-attachments/assets/cb66ca3d-3028-4dfb-b64c-8ff2b60dd9cb" />
+
+This shows us there is not a large discrepency between personal medical spending and county type. This would suggest the problem might not be with this but could the problem be population size in a graph I have not made yet ill argue no this is not why
+
+
+Then Ill wrap up the story board and show locations where hospitals should be added and not hospitals rural health clinics
 
 
 
