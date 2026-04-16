@@ -76,12 +76,11 @@ Text here!
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 |         The graphs I showed them were promising but needed quite a bit of work                            |    Change my graph and get people to look at them more                                                              |       The story was a good add
-|    the story was an idea I was pitching when iterviewing talking about adding it so I added it above now I think Ill get feedback from other people on what they think about it.            
-                     |                                                                                 |
+|    the story was an idea I was pitching when iterviewing talking about adding it so I added it above now I think Ill get feedback from other people on what they think about it.             |        Need to decide if the maps are good visuals                     | I think the maps are good but Im going to try to figure out how to condese them or make them more meaninful
 |                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
+
+> I think the interviewees had good insights I did not get much time to talk to them about my stuff specifically as it was in a weird stage of being partially done at the time but I think im enjoying the direction this is going and going to overhaul it for the final part
 
 Text here!
 
@@ -91,7 +90,9 @@ Text here!
 Text here!
 
 ## References
-_List any references you used here._
+Data sources:
+Policymap.com 
+Countyhealthrnaking.org
 
 ## AI acknowledgements
 I only used AI in this section when unsure how to do something specific in tabluea and had it find Youtube tutorials for me
