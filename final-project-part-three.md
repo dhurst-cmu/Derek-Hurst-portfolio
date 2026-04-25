@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [final project I]([Final Project part 3](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-one.html)) | [final project II]([Final Project part 3](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-two.html)) | [final project III]([Final Project part 3](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-three.html)) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [final project I]([Final Project part 3](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-one.html)) | [final project II](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-two.html)) | [final project III](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-three.html)) |
 
 # The final data story
 >
