@@ -1,7 +1,26 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> <!DOCTYPE html>
+<html>
+<head>
+  <title>My StoryMap</title>
+</head>
+<body>
+
+<h2>My ArcGIS StoryMap</h2>
+
+<iframe
+  src="https://storymaps.arcgis.com/stories/18a363ad14884ee895b97c13c06721dd"
+  width="100%"
+  height="800"
+  frameborder="0"
+  allowfullscreen
+  allow="geolocation">
+</iframe>
+
+</body>
+</html>
 
 Text here!
 
