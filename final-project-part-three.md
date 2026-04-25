@@ -66,8 +66,8 @@ https://www.ohioruralhealth.org/
 Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+> I wish I had more time and or took this class earlier on in my Heinz journey. One of the main issues I ran into that that I had my capstone running concurrently with this class which meant I could not spend near the time I would have like working especially on my final project for this class. I would have loved to do a deeper look into the statistics of the population density that live in the red areas of the map but this is something that on a smaller scale took me four hours to do when I did it a different time and it took me three hours of waiting to just get GIS to work at all for my one GIS visual. So I would have loved to spend more time on that to export a data set into tablaue but that not how the cards fell for me during this project.
+>
+> On another topic I thought this class gave me a decent understanding of how to use tablaeu and create better data visualizations especially as a person who is fairly new to making such things without having a clear guide to do so. 
 
 
