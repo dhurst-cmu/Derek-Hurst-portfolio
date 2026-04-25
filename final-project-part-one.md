@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) |  [Final Project part 1](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-one.html) | [Final Project part 2](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-two.html)| [Final Project part 3](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-three.html)|
 
 
 
