@@ -1,4 +1,6 @@
-([Final Project part 1](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-one.html))[Final Project part 2](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-two.html)[Final Project part 3](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-three.html)
+([Final Project part 1](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-one.html)
+[Final Project part 2](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-two.html)
+[Final Project part 3](https://dhurst-cmu.github.io/Derek-Hurst-portfolio/final-project-part-three.html)
 
 
 # Portfolio
